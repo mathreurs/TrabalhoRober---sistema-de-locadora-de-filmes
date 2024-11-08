@@ -1,0 +1,6 @@
+a,1,a,a,a,1,false
+b,1,b,b,b,1,false
+c,1,c,c,c,1,false
+a,2024,matheus,matheus,matheus,55,false
+a,1,a,a,a,1,false
+t,1,t,t,t,1,false
